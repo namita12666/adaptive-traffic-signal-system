@@ -34,8 +34,7 @@ The lane with the highest score gets the green signal dynamically.
 ---
 
 ## 🧩 System Architecture
-
-![Circuit Diagram will be uploaded soon](docs/circuit_diagram.png)
+![Circuit Diagram](Model.png)
 
 ---
 
